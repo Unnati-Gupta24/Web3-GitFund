@@ -2,7 +2,7 @@
 
 ### Overview
 
-This is a comprehensive GitHub repository, built on top of a Node.js and React framework, utilizing the Next.js toolkit, and integrating with the GitHub API and Express.js to provide a robust set of features. It also leverages the solidity compiler and Remix to create a decentralized application. Below are the key features and functionalities implemented in this project:
+This is a comprehensive GitHub repository, built on top of a Node.js and React framework, utilizing the Next.js toolkit, and integrating with the GitHub API and Express.js to provide a robust set of features. It also leverages the solidity compiler and Remix to create a decentralized application. Below are the key features and functionalities implemented in this project: 
 
 ![GITFUND](https://s3.tebi.io/phg/Screenshot%202025-03-01%20082051.png)
 
